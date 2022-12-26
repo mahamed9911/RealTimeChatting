@@ -5,12 +5,12 @@ This is a real time chatting web application that required the user to create an
 
 technologies used 
 
-Client-side
+**Client-side**
 
   react.js
   
   
-Server-side
+**Server-side**
   Node.js
   
   Express.js
